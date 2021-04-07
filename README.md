@@ -1,6 +1,7 @@
 # arkroot
-#App
+# App
 ![alt text](https://github.com/aniteshreddy/arkroot/blob/main/gggg.gif)
-#Web
+# Web
 ![web version](https://github.com/aniteshreddy/arkroot/blob/main/chrome.png)
+![web version](https://github.com/aniteshreddy/arkroot/blob/main/chrome1.png)
 
